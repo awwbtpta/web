@@ -1,9 +1,0 @@
-# *
-User-agent: *
-Allow: /
-
-# Host
-Host: https://awwbtpta.vercel.app
-
-# Sitemaps
-Sitemap: https://awwbtpta.vercel.app/sitemap.xml
